@@ -16,9 +16,9 @@
 #define EXTRA 4
 
 / {
-        chosen {
-          zmk,physical-layout = &foostan_corne_5col_layout;
-        };
+       // chosen {
+         // zmk,physical-layout = &foostan_corne_5col_layout;
+       // };
         
         behaviors {
                 hm: homerow_mods {
