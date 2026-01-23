@@ -26,16 +26,14 @@
     combos {
         compatible = "zmk,combos";
 
-        escape {
-            bindings = <&kp ESCAPE>;
+        Escape {
+            bindings = <&kp ESC>;
             key-positions = <1 2>;
-            layers = <0>;
         };
 
-        delete {
-            bindings = <&kp DELETE>;
-            key-positions = <9 10>;
-            layers = <0>;
+        Backspace {
+            bindings = <&kp BACKSPACE>;
+            key-positions = <10 9>;
         };
     };
 
