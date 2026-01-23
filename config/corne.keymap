@@ -50,6 +50,21 @@
             bindings = <&kp EXCLAMATION>;
             key-positions = <20 21>;
         };
+
+        backtick {
+            bindings = <&kp GRAVE>;
+            key-positions = <13 14>;
+        };
+
+        single_quote {
+            bindings = <&kp SINGLE_QUOTE>;
+            key-positions = <14 15>;
+        };
+
+        double_quote {
+            bindings = <&kp DOUBLE_QUOTES>;
+            key-positions = <15 16>;
+        };
     };
 
     //
