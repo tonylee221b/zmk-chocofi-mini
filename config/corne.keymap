@@ -40,6 +40,16 @@
             bindings = <&kp TAB>;
             key-positions = <7 8 9>;
         };
+
+        question_mark {
+            bindings = <&kp QUESTION>;
+            key-positions = <33 34>;
+        };
+
+        exclamation_mark {
+            bindings = <&kp EXCLAMATION>;
+            key-positions = <21 22>;
+        };
     };
 
     //
