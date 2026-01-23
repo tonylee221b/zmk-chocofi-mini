@@ -71,11 +71,13 @@
         escape {
             bindings = <&kp ESCAPE>;
             key-positions = <1 2>;
+            layers = <0>;
         };
 
         delete {
             bindings = <&kp DELETE>;
             key-positions = <9 10>;
+            layers = <0>;
         };
     };
 
