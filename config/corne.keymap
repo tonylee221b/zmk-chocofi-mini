@@ -70,6 +70,16 @@
             bindings = <&kp COLON>;
             key-positions = <21 22>;
         };
+
+        lt {
+            bindings = <&kp LT>;
+            key-positions = <31 32>;
+        };
+
+        gt {
+            bindings = <&kp GT>;
+            key-positions = <33 34>;
+        };
     };
 
     //
