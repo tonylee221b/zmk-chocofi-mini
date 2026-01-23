@@ -65,6 +65,11 @@
             bindings = <&kp DOUBLE_QUOTES>;
             key-positions = <15 16>;
         };
+
+        colon {
+            bindings = <&kp COLON>;
+            key-positions = <21 22>;
+        };
     };
 
     //
