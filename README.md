@@ -1,4 +1,4 @@
-### New firmware to fix display issue.  W.I.P currently displays are working and this is the same firmware withou combos and slight changes.
+### New firmware location https://github.com/KeyboardHoarders/zmk-config-cornemini2
 ## I added the mouse layer but you will need to add a layer change in zmk studio or edit directly to get there.
 
 
